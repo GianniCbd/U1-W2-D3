@@ -187,8 +187,7 @@ while (crewMass < 100) {
 for (let i = 0; i < starWarsCharacters.length; i++) {
   const gender = starWarsCharacters[i];
 
-  starWarsCharacters.splice(7);
-  console.log(starWarsCharacters[i]);
+  // console.log(starWarsCharacters[i]);
 }
 /* --EXTRA-- ESERCIZIO 9
   Utilizzando gli elementi presenti nell'array "femaleCharacters" rimuovi dall'array "characters" le stringhe corrispondenti a personaggi con lo stesso nome.
